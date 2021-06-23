@@ -1,0 +1,2 @@
+docker build -t node-docker-tutorial .
+docker run -it -p 9000:3000 node-docker-tutorial
